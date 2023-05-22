@@ -20,7 +20,7 @@
 ### 💾 Clone o Repositório
 
 ```
-- git clone
+- git clone git@github.com:WalmirLucena/bemol-onboarding-api.git
 ```
 
 ## Executando o projeto
