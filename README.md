@@ -50,3 +50,10 @@ Para rodar um teste especifico:
 ```
   yarn test nomeDoArquivo
 ```
+# Arquitetura do Projeto
+
+![Arquitetura](ArchitectureUML.png)
+
+# Modelo C4 da Solução do Desafio Bemol
+
+![Modelo](UML.PNG)
