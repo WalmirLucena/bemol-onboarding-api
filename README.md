@@ -52,7 +52,7 @@ Para rodar um teste especifico:
 ```
 # Arquitetura do Projeto
 
-![Arquitetura](ArchitectureUML.png)
+![Arquitetura](ArchitectureUML)
 
 # Modelo C4 da Solução do Desafio Bemol
 
